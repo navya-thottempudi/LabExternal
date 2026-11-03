@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: Blue;
+}
+p{
+    text-align: center;
+    background-color: Yellow;
+}
+body{
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+label{
+    text-align: center;
+}
+input{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
